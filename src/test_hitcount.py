@@ -5,7 +5,7 @@ import unittest
 from unittest.mock import patch
 
 import mockredis
-import hitcount
+import error_hitcount
 
 class HitCountTest(unittest.TestCase):
 
